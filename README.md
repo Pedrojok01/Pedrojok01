@@ -1,4 +1,4 @@
-<h2 align="center">📊 GitHub Stats:</h2>
+<!-- <h2 align="center">📊 GitHub Stats:</h2> -->
 
 <!-- <p align="center">
   <img src = "https://github-stats-extended.vercel.app/api?username=Pedrojok01&show_icons=true&theme=transparent&line_height=40">
